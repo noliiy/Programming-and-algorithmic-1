@@ -70,8 +70,9 @@ Through these assignments, I developed the ability to:
 
 ## 📄 Resume
 
-You can find my CV here:
-👉 [Download CV](./Yusuf_Emre_Erdem_CV.pdf)
+You can download my CV here:
+👉 [Download CV](https://raw.githubusercontent.com/noliiy/Programming-and-algorithmic-1/main/Yusuf_Emre_Erdem_CV.pdf)
+
 
 ---
 
