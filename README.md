@@ -1,25 +1,88 @@
 # Programming and Algorithmic 1 (C)
 
-Course homework solutions solving algorithmic problems in C.
+This repository contains my solutions for the **Programming and Algorithmic 1** course at the Czech Technical University in Prague. The course focuses on solving algorithmic problems using the C programming language.
 
-## Overview
-Assignments practice core programming and problem-solving skills: conditionals, loops, arrays, strings, functions, and basic algorithms.
+---
 
-## Files
-- `warmup.c` – warmup tasks
-- `contest.c` – contest-style problems
-- `homework2.c`, `homework3.c`, ... – homework assignments
+## 📚 Overview
 
-## How to run
-Compile with GCC, for example:
+The assignments in this repository are designed to develop:
 
-```sh
+* Strong problem-solving skills
+* Algorithmic and logical thinking
+* Efficient and structured C programming
+
+Covered topics include:
+
+* Conditionals and loops
+* Arrays and strings
+* Functions
+* Basic data structures
+* Algorithm design and optimization
+
+---
+
+## 🏆 Course Achievement
+
+This course is considered one of the more challenging introductory programming courses at CTU.
+I successfully completed it with a **grade B (82/100 points)**, demonstrating strong problem-solving and algorithmic thinking skills.
+
+---
+
+## 📂 Repository Structure
+
+```
+warmup.c        → introductory tasks  
+contest.c       → contest-style problems  
+homework*.c     → main homework assignments  
+```
+
+---
+
+## 🛠️ Technologies
+
+* Language: C
+* Tools: GCC, Linux, Git
+
+---
+
+## ▶️ How to Run
+
+Compile and run any file using GCC:
+
+```
 gcc -Wall -Wextra -O2 homework2.c -o homework2
 ./homework2
 ```
 
-## Author
-Yusuf Emre Erdem
-Software Engineering student, CTU in Prague
+---
 
-LinkedIn: https://linkedin.com/in/emreerdem34
+## 🎯 Learning Outcomes
+
+Through these assignments, I developed the ability to:
+
+* Break down complex problems into smaller steps
+* Write clean and efficient C code
+* Analyze algorithm efficiency (time & space complexity)
+* Debug and improve existing solutions
+
+---
+
+## 📄 Resume
+
+You can find my CV here:
+👉 [Download CV](./Yusuf_Emre_Erdem_CV.pdf)
+
+---
+
+## 👤 Author
+
+**Yusuf Emre Erdem**
+Software Engineering Student @ Czech Technical University in Prague
+
+📧 [erdemyusufemre@gmail.com](mailto:erdemyusufemre@gmail.com)
+🔗 https://linkedin.com/in/emreerdem34
+
+---
+
+⭐ Feel free to explore the repository and reach out for collaboration or feedback!
